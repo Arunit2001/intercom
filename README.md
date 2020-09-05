@@ -8,6 +8,9 @@
 
 Video-confrencing web application using Peerjs, Socket.io, Nodejs, Uvvid .                                                                                            
 App deployed at https://secret-dawn-69887.herokuapp.com/ 
+
+
+Google Slide at https://docs.google.com/presentation/d/1bUrW4K1eLC4SZqlpX9S9mv89eFDQgr54Mgfs4BOLMuM/edit?usp=sharing
   
 ## Usage
 ### clone

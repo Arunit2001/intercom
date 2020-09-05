@@ -1,9 +1,5 @@
 # intercom
 
-[![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) | 
-
-
-
 Video-confrencing web application using Peerjs, Socket.io, Nodejs, Uvvid .                                                                                            
 App deployed at https://secret-dawn-69887.herokuapp.com/ 
   

@@ -1,5 +1,5 @@
 # intercom
-Video-confrencing web application using Peerjs, Socket.io, Nodejs, Uvvid .                                                                                            
+Video-confrencing web application using Peerjs, Socket.io, Nodejs .                                                                                            
 App deployed at https://secret-dawn-69887.herokuapp.com/ 
   
 ## Usage
